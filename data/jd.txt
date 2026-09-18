@@ -1,0 +1,18 @@
+We are seeking an AI Engineer to design, develop, and deploy machine learning and generative AI solutions. The ideal candidate will have strong experience in Python, machine learning, deep learning, NLP, LLMs, and MLOps, with the ability to build scalable production systems. Responsibilities
+Develop and deploy machine learning and AI models.
+Build data pipelines and model workflows.
+Support model training, testing, and evaluation.
+Integrate AI solutions into production applications.
+Monitor model performance and improve accuracy and reliability.
+Work with cross-functional teams to deliver AI features.
+Requirements
+knows AI, machine learning, or data science.
+Strong programming skills in Python.
+Experience with TensorFlow, PyTorch, Scikit-learn, or Hugging Face.
+Knowledge of NLP, LLMs, RAG, or prompt engineering.
+Experience with Docker, Kubernetes, AWS, Azure, or GCP.
+Understanding of model deployment, monitoring, and lifecycle management.
+Preferred Skills
+Experience with FastAPI, SQL, MLflow, Airflow, or CI/CD.
+Familiarity with computer vision or recommendation systems.
+Strong communication and problem-solving skills.
