@@ -27,8 +27,7 @@ weighted combination of semantic similarity and skill overlap.
 - [Scaling to 1,000+ Resumes](#scaling-to-1000-resumes)
 - [Data Privacy](#data-privacy)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Known Limitations](#known-limitations)
-- [Extending the System](#extending-the-system)
+
 
 ---
 
