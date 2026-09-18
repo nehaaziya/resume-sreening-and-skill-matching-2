@@ -5,7 +5,13 @@ information (skills, experience, education, certifications), generates
 semantic embeddings with Sentence-BERT, indexes them in FAISS for fast
 vector search, and ranks candidates against a job description using a
 weighted combination of semantic similarity and skill overlap.
+## Demo
 
+### Google Colab
+[Open the project in Google Colab](https://colab.research.google.com/github/nehaaziya/resume-sreening-and-skill-matching-2/blob/main/matchingfair.ipynb)
+
+### Demo Video
+[Watch the project demonstration](https://youtu.be/mA7MoKqbME0)
 ---
 
 ## Table of Contents
@@ -279,7 +285,22 @@ above.
 └── tests/
     └── test_pipeline.py
 ```
+## Results
 
+The system was tested on 177 resume files against a job description.
+
+The generated screening results include:
+
+- Overall Match Score
+- Semantic Match
+- Skill Match
+- Screening Decision
+- Matched Skills
+- Missing Skills
+- Experience
+- Education
+
+The results were also exported to an Excel report for further analysis.
 ---
 
 ## Setup
